@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DynamicResourceSample</string>
+    <string name="test_resource">Hello dynamic text!</string>
+</resources>
